@@ -1,0 +1,2 @@
+Esses são alguns exemplos de documentação de fluxo de cadastro.
+Preservando assim os dados de usuário para a realização dos testes.
